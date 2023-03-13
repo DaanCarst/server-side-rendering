@@ -1,0 +1,67 @@
+:root {
+    --main-pink: #B9005F;
+    --main-fade: #E30059;
+    --clr-yellow: #FFD05F;
+    --clr-lightblue: #46BECD;
+    --clr-green: #25AE93;
+    --clr-blue: #606eb3;
+    --sup-purple: #6A4955;
+    --sup-grey: #C9B5B2;
+}
+
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #f5f4f4;
+}
+
+header {
+    width: 100vw;
+    height: 6vh;
+    display: block;
+}
+
+header #logo {
+    width: auto;
+    height: 5em;
+    border: 4px solid #fff;
+    border-radius: 0 0 3em 0;
+    background-color: #fff;
+    padding: 0.5em 1.2em;
+    position: absolute;
+}
+
+#after-curve {
+    width: 100vw;
+    height: 2.5em;
+    background-color: #fff;
+    float: inline-end;
+    position: inherit;
+}
+
+#after-curve::before {
+    content: "";
+    width: 3.5em;
+    height: 3.5em;
+    position: absolute;
+    top: 2.5em;
+    left: 13.8em;
+    box-shadow: 0.1em -1em 0 -0.2em white;
+    border-radius: 60% 0 0 0;
+}
+
+h1 {
+    color: var(--sup-purple);
+}
+
+.all-container {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+}
