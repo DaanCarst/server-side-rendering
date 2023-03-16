@@ -8,7 +8,6 @@
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
 ## Beschrijving
@@ -25,9 +24,7 @@ Tijdens deze opdracht was het de bedoeling om een website te maken met inhoud va
 
 ## Gebruik
 
-Met deze website kan je websites van partners beordelen aan de hand van de checklist van WCAG principes en richtlijnen.  
-
-## Bronnen
+Met deze website kan je websites van partners beordelen aan de hand van de checklist van WCAG principes en richtlijnen. Hiermee kan je dan makkelijk zien wat er betreft de usability van een website anders zou kunnen.
 
 ## Licentie
 
