@@ -12,9 +12,10 @@
       <section class="guidelines">
         <details>
             <summary>
-            </summary>
+            </summary>         
             <% principe.richtlijnen.forEach(richtlijn => { %>
-                <div class="principleInfo hide" id="<%= richtlijn.titel.toLowerCase() %>"><%- richtlijn.uitleg.html %></div>
+              <h3><%- richtlijn.titel %></h3>
+                <div class="info" id="<%= richtlijn.titel.toLowerCase() %>"><%- richtlijn.uitleg.html %></div>
             <% }) %>
         </details>
       </section>

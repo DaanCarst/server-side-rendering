@@ -131,7 +131,16 @@ h2 {
     font-size: 2em;
 }
 
+h3 {
+    color: var(--main-pink);
+    font-size: 1em;
+}
+
 .toolboard {
     margin: 5px;
     align-self: flex-start;
+}
+
+.info {
+    padding: 1em;
 }
