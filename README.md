@@ -1,30 +1,30 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Server Side rendering | Vervoerregio
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
   * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+![alt text](https://cdn.discordapp.com/attachments/793090681010257933/1086039856934830120/Screenshot_2023-03-16_223418.jpg)
+Tijdens deze opdracht was het de bedoeling om een website te maken met inhoud van een API. Voor deze opdracht heb ik een opdracht gevolgd van vervoerregio Amsterdam. Op deze website kan je dan gemakkelijk verschillende richtlijnen bekijken van WCAG.
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-## Installatie
+* HTML
+* CSS
+* Javascript
+* Rest API
+* EJS
 
 ## Gebruik
 
-## Bronnen
+Met deze website kan je websites van partners beordelen aan de hand van de checklist van WCAG principes en richtlijnen. Hiermee kan je dan makkelijk zien wat er betreft de usability van een website anders zou kunnen.
 
 ## Licentie
 
